@@ -1,11 +1,11 @@
 Package: Lab03
 Type: Package
-Title: Create function Euclidean and Dijkstra
+Title: Package lab3
 Version: 1.0
 Date: 2018-09-13
-Author: Raymond Reuel Yesuafuga Sseguya
+Author: Raymond Reuel Yesuafuga Sseguya, Martin Smelik, Vinay Bengaluru Ashwath Narayan Murthy
 Maintainer: Raymond Sseguya <sseguya256@gmail.com>
-Description: Creates 2 function TODO
+Description: This package creates two functions called Euclidean and Dijkstra and the data set wiki_graph
 License: GPL-3
 RoxygenNote: 6.1.0
 Encoding: UTF-8

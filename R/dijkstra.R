@@ -1,3 +1,14 @@
+#' Dijkstra algorithm
+#' 
+#' Finding the shortest paths in the graph from initial node
+#' 
+#' @param wiki_graph data.frame
+#' @param init_node integer
+#' @return vector in which nth element is equal to the shortest path from initial node to nth vertex
+#' @author Reuel, Martin, Vinay
+#' @source \href{https://en.wikipedia.org/wiki/Dijkstra_algorithm}{Dijkstra algorithm}
+#' @export
+
 dijkstra <- function (wiki_graph, init_node)
 {
   #create vertex set Q

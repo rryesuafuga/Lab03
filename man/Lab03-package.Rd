@@ -8,13 +8,8 @@
 \description{
 \packageDescription{Lab03}
 }
-\details{
 
 
-TODO: We should put some detail here
-
-
-}
 \author{
 \packageAuthor{Lab03}
 
