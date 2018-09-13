@@ -4,7 +4,7 @@
 #' 
 #' @param a integer
 #' @param b integer
-#' @return a integer equal to GCD
+#' @return an integer equal to GCD
 #' @author Reuel, Martin, Vinay
 #' @export
 
