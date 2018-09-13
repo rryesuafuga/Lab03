@@ -10,8 +10,8 @@
 }
 \details{
 
-The DESCRIPTION file:
-\packageDescribtion{Lab03}
+
+TODO: We should put some detail here
 
 
 }
@@ -22,5 +22,5 @@ Maintainer: \packageMaintainer{Lab03}
 }
 
 
-\keyword{ package }
+\keyword{ dijkstra, euclid algorithm }
 
