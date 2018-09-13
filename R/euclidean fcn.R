@@ -1,5 +1,12 @@
-# Raymond Sseguya September 10th Lab03
-
+#' Finding the greatest common divisor (GCD)
+#' 
+#' This function finds the GCD by using modulus function and while loop
+#' 
+#' @param a integer
+#' @param b integer
+#' @return a integer equal to GCD
+#' @author Reuel, Martin, Vinay
+#' @export
 
 euclidean <- function(a, b)
 {
