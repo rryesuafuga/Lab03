@@ -4,6 +4,11 @@ dijkstra <- function (wiki_graph, init_node)
   a <- max(wiki_graph[,1])
   b <- max(wiki_graph[,2])
   Q <- c(1:max(a,b))
+  stopifnot(init_node %in% Q)
+  stopifnot(is.data.frame(wiki_graph)==TRUE)
+  stopifnot(length(colnames(wiki_graph)) == 3)
+  stopifnot(colnames(wiki_graph)  == c("v1","v2","w")) 
+  
   
   #Initialization
   dist <- as.vector(matrix(Inf,nrow=length(Q)))                
