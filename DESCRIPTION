@@ -1,10 +1,10 @@
 Package: Lab03
 Type: Package
-Title: What the package does (short line)
+Title: euclidean
 Version: 1.0
 Date: 2018-09-13
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Author: Raymond Reuel Yesuafuga Sseguya
+Maintainer: Raymond Sseguya <sseguya256@gmail.com>
 Description: More about what it does (maybe more than one line)
-License: What license is it under?
+License: GPL-3
 RoxygenNote: 6.1.0
