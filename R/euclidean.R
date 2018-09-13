@@ -6,6 +6,7 @@
 #' @param b integer
 #' @return an integer equal to GCD
 #' @author Reuel, Martin, Vinay
+#' @source \href{https://en.wikipedia.org/wiki/Euclidean_algorithm}{Euclidean algorithm}
 #' @export
 
 euclidean <- function(a, b)
