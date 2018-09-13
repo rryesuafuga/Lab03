@@ -14,12 +14,14 @@ The DESCRIPTION file:
 \packageDESCRIPTION{Lab03}
 \packageIndices{Lab03}
 This package include two basic function. Euclidean which generates the greatest common divisor of two integers and Dijkstra which finds the shortest path in the graph
+
 }
 \author{
 \packageAuthor{Lab03}
 
 Maintainer: \packageMaintainer{Lab03}
 }
+
 
 \keyword{ package }
 
