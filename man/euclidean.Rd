@@ -12,7 +12,7 @@ euclidean(a, b)
 \item{b}{integer}
 }
 \value{
-a integer equal to GCD
+an integer equal to GCD
 }
 \description{
 This function finds the GCD by using modulus function and while loop

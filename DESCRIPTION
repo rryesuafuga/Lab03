@@ -1,10 +1,11 @@
 Package: Lab03
 Type: Package
-Title: euclidean
+Title: Create function Euclidean and Dijkstra
 Version: 1.0
 Date: 2018-09-13
 Author: Raymond Reuel Yesuafuga Sseguya
 Maintainer: Raymond Sseguya <sseguya256@gmail.com>
-Description: More about what it does (maybe more than one line)
+Description: Creates 2 function TODO
 License: GPL-3
 RoxygenNote: 6.1.0
+Encoding: UTF-8

@@ -13,23 +13,18 @@
 The DESCRIPTION file:
 \packageDESCRIPTION{Lab03}
 \packageIndices{Lab03}
- An overview of how to use the package, including the most important functions 
+This package include two basic function. Euclidean which generates the greatest common divisor of two integers and Dijkstra which finds the shortest path in the graph
+
 }
 \author{
 \packageAuthor{Lab03}
 
 Maintainer: \packageMaintainer{Lab03}
 }
-\references{
- Literature or other references for background information 
-}
- Optionally other standard keywords, one per line, from file KEYWORDS in the R 
- documentation directory 
+
+
 \keyword{ package }
-\seealso{
-Optional links to other man pages, e.g.
-\code{\link[<pkg>:<pkg>-package]{<pkg>}}
-}
+
 \examples{
-simple examples of the most important functions
+euclidean(10,100) = 10
 }
