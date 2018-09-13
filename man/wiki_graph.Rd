@@ -3,18 +3,15 @@
 \docType{data}
 \name{wiki_graph}
 \alias{wiki_graph}
-\title{Arabidopsis QTL data on gravitropism}
-\format{An object of class \code{"cross"}; see \code{\link[qtl]{read.cross}}.}
+\title{Wiki_graph}
+\format{An object of class \code{data.frame} with 18 rows and 3 columns.}
 \source{
-\href{https://en.wikipedia.org/wiki/Graph}{QTL Archive}
+\href{https://en.wikipedia.org/wiki/Graph}{wiki_graph}
 }
 \usage{
 data(wiki_graph)
 }
 \description{
-Data from a QTL experiment on gravitropism in
-Arabidopsis, with data on 162 recombinant inbred lines (Ler x
-Cvi). The outcome is the root tip angle (in degrees) at two-minute
-increments over eight hours.
+Creates a graph with 6 vertices and 18 edges
 }
 \keyword{datasets}

@@ -3,6 +3,9 @@
 \name{euclidean}
 \alias{euclidean}
 \title{Finding the greatest common divisor (GCD)}
+\source{
+\href{https://en.wikipedia.org/wiki/Euclidean_algorithm}{Euclidean algorithm}
+}
 \usage{
 euclidean(a, b)
 }
